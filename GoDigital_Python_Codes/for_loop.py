@@ -10,3 +10,5 @@ def for_loop():
     print("list out all values of Dict. using for loop\n")
     for dict1 in dict:
         print(dict1,dict[dict1])
+if(__name__)=='__main__':
+    for_loop()
